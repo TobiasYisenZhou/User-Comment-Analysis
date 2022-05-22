@@ -8,9 +8,9 @@ We used LDA topic modelling technique to examine the hidden topic for each versi
 
 ## Files in this projest:
 1. The data tables are in the data folder.
-  1.1 The amazon_api.ipynb is the file that gathered the amazon reviews using Rainforrest API
-  1.2 the Data explore.ipynb is where I examined the raw text from Amazon
-  1.3 the data preparation.ipynb is where I applied cleaning, stop word removal and stemming to the 
+  - 1.1 The amazon_api.ipynb is the file that gathered the amazon reviews using Rainforrest API
+  - 1.2 the Data explore.ipynb is where I examined the raw text from Amazon
+  - 1.3 the data preparation.ipynb is where I applied cleaning, stop word removal and stemming to the 
       data, getting it ready for modelling
   1.4 the tweets_API.py is where I used API to get information on twitter regarding Roku Ultra
   1.5 the tweets_clean.py is where I applied claning, stoo word removel and stemming to clean the 
