@@ -1,5 +1,5 @@
 # User-Comment-Analysis
-In this project, I led a group of 6 student to implement knowledge in NLP to process user comments for Roku Ultra on Amazon and Twitter. We applied methods such as LDA, random forest, sentiment analysis and ANOVA to investigate, and generated data-supported business  insight. This repo shares the data, the presentation, and the code I personally wrote for this project.
+In this project, I led a group of 5 student to implement knowledge in NLP to process user comments for Roku Ultra on Amazon and Twitter. We applied methods such as LDA, random forest, sentiment analysis and ANOVA to investigate, and generated data-supported business  insight. This repo shares the data, the presentation, and the code I personally wrote for this project.
 
 ## Overview
 We are curious in whether operation system updates for ROKU (a prominent player in internet-TV industry in the US)  drive the user to like or dislike the product more. We gathered the data from September of 2020 to Feburary of 2022, which span acorss 2 updates and 3 versions. 
