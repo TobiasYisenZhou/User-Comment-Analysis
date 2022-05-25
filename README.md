@@ -6,6 +6,12 @@ We are curious in whether operation system updates for ROKU (a prominent player 
 
 We used LDA topic modelling technique to examine the hidden topic for each version, random forrest to examine the relationship between words and rating, sentiment analysis and ANOVA to detect the trend of comments and word clouds to create visually pleasing graphs.   
 
+### My role in this project...
+1. Me and another team member came up with the topic and chose the product (Roku Ultra). We wanted to investigate how user react to a new technological product. I came up with the idea of comparing the updates.
+2. I wrote all the codes in this directory and shared them to my team members. 
+3. I took time to teach my teammates who are not farmiliar with the ideas like LDA and sentiment analisys. 
+4. With another teammate, I help the group to break down the project into achievable steps, distribute works according to individual's strength, and organized meetings.
+
 ## Files in this projest:
 1. The data tables are in the data folder.
   - 1.1 The amazon_api.ipynb is the file that gathered the amazon reviews using Rainforrest API
